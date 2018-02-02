@@ -1,0 +1,16 @@
+p {
+    color: #791e80;
+}
+h1 {
+    color: #ff00e7;
+}
+
+h1.main {
+    text-decoration: underline;
+}
+p#first{
+    text-transform: capitalize;
+}
+li > li {
+    color: yellow;
+}
